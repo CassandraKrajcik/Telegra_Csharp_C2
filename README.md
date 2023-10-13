@@ -1,5 +1,5 @@
-# Telegra_Csharp_C2
-Command and Control for C# Writing
+! Telegra_Csharp_C2
+Command and Control for C* Writing
 
 Author:  Leiothrix
 
@@ -119,3 +119,4 @@ ilmerge.exe /target:exe /out:TGbot.exe ConsoleApp1.exe  AForge.Controls.dll AFor
 Finally, generate output in the directory specified by the out parameter
 
 还在完善！还在完善！还在完善！
+ 
